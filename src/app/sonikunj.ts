@@ -1,3 +1,5 @@
+//class to store personal information
+
 export class Sonikunj{
     studentNumber : number;
     name: string;

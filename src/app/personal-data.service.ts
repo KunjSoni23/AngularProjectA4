@@ -1,3 +1,5 @@
+//service
+
 import { Injectable } from '@angular/core';
 import {Sonikunj} from './sonikunj';
 import {SONIKUNJ} from '../assets/data/myData';

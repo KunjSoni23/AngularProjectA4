@@ -1,3 +1,5 @@
+//interface
+
 export interface CoursesBooks{
     bookName:string,
     publisher:string,

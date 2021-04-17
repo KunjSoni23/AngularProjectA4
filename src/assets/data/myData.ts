@@ -1,3 +1,5 @@
+//data file depended on class sonikunj.ts
+
 import {Sonikunj} from '../../app/sonikunj';
 
 export const SONIKUNJ: Sonikunj = {
