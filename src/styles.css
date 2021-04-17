@@ -1,5 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 
+
+/*
+Name: Kunj Soni
+Date: 16 April 2021
+Title: Assignment 4
+*/
+
 @import '@angular/material/prebuilt-themes/deeppurple-amber.css';
 h1 {
     text-align: center;
