@@ -1,0 +1,21 @@
+{
+    "java": [{
+            "bookName": "Core Java Volumn 1 - Fundamentals",
+            "publisher": "Prentice Hall",
+            "author": "Cay S. Horstmann",
+            "opinion": "This book offers a detailed explanation of various features of Core Java. This book is amazing."
+        },
+        {
+            "bookName": "Effective Java",
+            "publisher": "Addison Wesley",
+            "author": "Joshua Bloch",
+            "opinion": "This book make it easier for the reader to grasp java concept with short practicals."
+        },
+        {
+            "bookName": "Java: A Beginner's Guide",
+            "publisher": "McGraw-Hill Education",
+            "author": "Herbert Schildt",
+            "opinion": "This book is one of the most comprehensive books for learning Java."
+        }
+    ]
+}

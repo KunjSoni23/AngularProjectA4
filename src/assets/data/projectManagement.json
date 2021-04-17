@@ -1,0 +1,21 @@
+{
+    "projectManagement": [{
+            "bookName": "Information Technology Project Management- 9th Edition",
+            "publisher": "Cengage",
+            "author": "Kathy Schwalbe",
+            "opinion": "This book gives idea that how one can enhance their knowledge as Project Manager."
+        },
+        {
+            "bookName": "Alpha Project Managers",
+            "publisher": "Velociteach",
+            "author": "Andy Crowe",
+            "opinion": "The explanation of five Process Group is amazing in this book."
+        },
+        {
+            "bookName": "Cultivate: The Power of winning Relationships",
+            "publisher": "Greenleaf Book Group Press",
+            "author": "Morag Barrett",
+            "opinion": "This Book Morag Barrett shares exceptional knowledge on why a business plan and the newest product mean nothing if you don't have your people aligned to execute the plan."
+        }
+    ]
+}

@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+}
+
+table {
+    width: 68%;
+    margin-left: auto;
+    margin-right: auto;
+    /* font-size: large; */
+}
+
+th {
+    text-align: left;
+    width: 108px;
+    border: 1px solid black;
+    background-color: #ffbda5;
+}
+
+td {
+    border: 1px solid black;
+    background-color: #85aff9;
+}
+
+.mat-tab-label-content {
+    font-weight: bold;
+}
+
+.mat-tab-labels {
+    background-color: cornflowerblue;
+}
+
+div {
+    background-color: azure;
+}

@@ -1,0 +1,21 @@
+{
+    "cSharp": [{
+            "bookName": "C# 8.0 and .NET Core 3.0",
+            "publisher": "Packt Publishing",
+            "author": "Mark J. Proce",
+            "opinion": "I find it that this book is a good to point you in the proper direction to bring your C# knowledge to current state and to browse."
+        },
+        {
+            "bookName": "Programming C# 8.0: Build Cloud, Web, and Desktop Applications",
+            "publisher": "O'Reilly Media",
+            "author": "Ian Griffiths",
+            "opinion": "This book make it easier for the reader to grasp all C# concept with lots of examples."
+        },
+        {
+            "bookName": "The C# Player's Guide",
+            "publisher": "Starbound Software",
+            "author": "RB Whitaker",
+            "opinion": "If you are a casual programmer, this book is great - especially if you're short on time."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+<mat-tab-group mat-stretch-tabs class="example-stretched-tabs mat-elevation-z4">
+    <mat-tab label="JAVA BOOKS">
+        <h3>List of Java Books:</h3>
+
+        <div *ngFor="let java of javaBooksList">
+
+            <table>
+                <tr>
+                    <th>Book Name: </th>
+                    <td>{{java.bookName}}</td>
+                </tr>
+                <tr>
+                    <th>Publisher: </th>
+                    <td>{{java.publisher}}</td>
+                </tr>
+                <tr>
+                    <th>Author: </th>
+                    <td>{{java.author}}</td>
+                </tr>
+                <tr>
+                    <th>Opinion: </th>
+                    <td>{{java.opinion}}</td>
+                </tr>
+            </table>
+            <hr>
+        </div>
+    </mat-tab>
+
+    <mat-tab label="C# BOOKS">
+        <h3>List of C# Books:</h3>
+        <div *ngFor="let csharp of cSharpBooksList">
+            <table>
+                <tr>
+                    <th>Book Name: </th>
+                    <td>{{csharp.bookName}}</td>
+                </tr>
+                <tr>
+                    <th>Publisher: </th>
+                    <td>{{csharp.publisher}}</td>
+                </tr>
+                <tr>
+                    <th>Author: </th>
+                    <td>{{csharp.author}}</td>
+                </tr>
+                <tr>
+                    <th>Opinion: </th>
+                    <td>{{csharp.opinion}}</td>
+                </tr>
+            </table>
+            <hr>
+        </div>
+
+    </mat-tab>
+
+
+
+    <mat-tab label="PROJECT MANAGEMENT BOOKS">
+        <h3>List of Project Management Books:</h3>
+        <div *ngFor="let project of projectManagementBooksList">
+            <table>
+                <tr>
+                    <th>Book Name: </th>
+                    <td>{{project.bookName}}</td>
+                </tr>
+                <tr>
+                    <th>Publisher: </th>
+                    <td>{{project.publisher}}</td>
+                </tr>
+                <tr>
+                    <th>Author: </th>
+                    <td>{{project.author}}</td>
+                </tr>
+                <tr>
+                    <th>Opinion: </th>
+                    <td>{{project.opinion}}</td>
+                </tr>
+            </table>
+            <hr>
+        </div>
+    </mat-tab>
+</mat-tab-group>
